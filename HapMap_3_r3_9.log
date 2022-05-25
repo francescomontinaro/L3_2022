@@ -1,0 +1,18 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile HapMap_hwe_filter_step1
+  --hwe 1e-10
+  --hwe-all
+  --make-bed
+  --out HapMap_3_r3_9
+
+Hostname: francesco-ThinkPad-T470
+Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenzeII/Esercitazioni/L3_2022
+Start time: Sun May 22 11:10:58 2022
+
+Note: --hwe-all flag deprecated.  Use "--hwe include-nonctrl".
+Random number seed: 1653210658
+15655 MB RAM detected; reserving 7827 MB for main workspace.
+Error: Failed to open HapMap_hwe_filter_step1.bed.
+
+End time: Sun May 22 11:10:58 2022
