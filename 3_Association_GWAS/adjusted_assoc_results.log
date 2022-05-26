@@ -1,4 +1,4 @@
-PLINK v1.90b6.21 64-bit (19 Oct 2020)
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
 Options in effect:
   --adjust
   --assoc
@@ -7,9 +7,9 @@ Options in effect:
 
 Hostname: francesco-latitudee6540
 Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenzeII/Esercitazioni/L3_2022/3_Association_GWAS
-Start time: Mon May 23 16:53:47 2022
+Start time: Wed May 25 15:38:24 2022
 
-Random number seed: 1653317627
+Random number seed: 1653485904
 15906 MB RAM detected; reserving 7953 MB for main workspace.
 1073226 variants loaded from .bim file.
 109 people (55 males, 54 females) loaded from .fam.
@@ -26,4 +26,4 @@ done.
 --adjust values (1073226 variants) written to
 adjusted_assoc_results.assoc.adjusted .
 
-End time: Mon May 23 16:53:51 2022
+End time: Wed May 25 15:38:28 2022
